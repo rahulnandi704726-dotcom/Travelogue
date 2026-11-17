@@ -1,0 +1,6 @@
+{
+  "name": "Travelora Air Ticketing",
+  "description": "Online air ticketing system with live flight search, interactive seat selection, instant e-tickets, and an admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
